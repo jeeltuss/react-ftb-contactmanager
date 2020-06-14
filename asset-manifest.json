@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ftb-contactmanager/static/css/main.ab4008d2.chunk.css",
+    "main.js": "/react-ftb-contactmanager/static/js/main.9481dfd1.chunk.js",
+    "main.js.map": "/react-ftb-contactmanager/static/js/main.9481dfd1.chunk.js.map",
+    "runtime-main.js": "/react-ftb-contactmanager/static/js/runtime-main.9ae0d1c0.js",
+    "runtime-main.js.map": "/react-ftb-contactmanager/static/js/runtime-main.9ae0d1c0.js.map",
+    "static/js/2.2d502c54.chunk.js": "/react-ftb-contactmanager/static/js/2.2d502c54.chunk.js",
+    "static/js/2.2d502c54.chunk.js.map": "/react-ftb-contactmanager/static/js/2.2d502c54.chunk.js.map",
+    "index.html": "/react-ftb-contactmanager/index.html",
+    "precache-manifest.0c04344b680749ca0efe04680dd28c60.js": "/react-ftb-contactmanager/precache-manifest.0c04344b680749ca0efe04680dd28c60.js",
+    "service-worker.js": "/react-ftb-contactmanager/service-worker.js",
+    "static/css/main.ab4008d2.chunk.css.map": "/react-ftb-contactmanager/static/css/main.ab4008d2.chunk.css.map",
+    "static/js/2.2d502c54.chunk.js.LICENSE.txt": "/react-ftb-contactmanager/static/js/2.2d502c54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae0d1c0.js",
+    "static/js/2.2d502c54.chunk.js",
+    "static/css/main.ab4008d2.chunk.css",
+    "static/js/main.9481dfd1.chunk.js"
+  ]
+}
